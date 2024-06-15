@@ -1,0 +1,6 @@
+framework module Pods_ErrorHandlingAPI_ErrorHandlingAPIUITests {
+  umbrella header "Pods-ErrorHandlingAPI-ErrorHandlingAPIUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
